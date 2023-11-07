@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FTsAKGo4vj5aNbiF96MHD6Bd8QSh/kXoxcXX8OUJzGg=",
+  "Source": "AirpotAPI",
+  "BasePath": "_content/AirpotAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
